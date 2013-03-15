@@ -1,0 +1,859 @@
+<html>
+<head>
+<title>RestoratioN - G-Portál</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+
+<link href="./style/concrete.css" rel="stylesheet" type="text/css" id="selecteddesign" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Főoldal - RestoratioN" />
+<meta property="og:site_name" content="RestoratioN" />
+<meta property="og:image" content="http://restoration.gportal.hu/portal/restoration/image/1362867918.jpg" />
+<meta name="Description" content="Üdv látogató!! 
+
+  Ez itt egy naruto nevelde, mely sok pozítiv dologgal rendelkezik, csak nevelni kell xD. Reméljük, hogy az embereknek tetszeni fog ez az új nevelde.&nbsp;
+
+	
+
+	Így kérj karit: 
+
+	Név: N..." />
+<link href="./style/gportal.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery-1.8.1.min.js"></script>
+<script type="text/JavaScript" src="/js/gportal.js"></script>
+
+<!-- (C)2000-2010 Gemius SA - gemiusAudience / g-portal_hu / Nevelde -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('nX0w3bt27wTmvS3TwQ6gbqRt33fu88ctgXNMUfw17e7.h7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://gportal.hu/js/xgemius.js"></script>
+
+</head>
+<body   onLoad="GPonLoad()" onScroll="onScroll();">
+<SCRIPT language="JavaScript">
+  <!--
+WEBAUDIT=function() {
+    
+  this.WACID=null;
+  this.WACIDName="WACID";
+  
+  
+  this.getCookie=function(name)  {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++)
+    {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+  }
+  
+  this.setCookie=function(name,value,topDomain) {
+    var date = new Date(2020,12,31,23,59,59);
+    var expires = "; expires="+date.toGMTString();
+    document.cookie = name+"="+value+expires+"; path=/; domain=" + topDomain;  
+  }
+  
+  this.generateID=function(splitter) {
+    var sp=(splitter) ? splitter : 'A';
+    var now=new Date();
+    return Date.parse(now.toGMTString()) + sp + Math.floor(Math.random()*1000000);
+  }
+  
+  this.getTopDomain=function(fullDomain) {
+    var darabok=fullDomain.split('.');
+    return darabok[(darabok.length-2)] + '.' + darabok[(darabok.length-1)];
+  }
+  
+  this.getDomain=function(url) {
+    var urlDarabok=url.split('/');
+    return urlDarabok[2];
+  }
+  
+  this.WACID=this.getCookie(this.WACIDName);
+}
+
+var wa=new WEBAUDIT();
+var felbontas = "";
+var wa_referrer = "";
+var same =  Math.floor(Math.random()*1000000);
+
+if(wa.WACID==null)
+{
+  wa.WACID=wa.generateID('A');
+  wa.setCookie(wa.WACIDName,wa.WACID,wa.getTopDomain(wa.getDomain(document.URL)));
+}
+
+same = same + "@welid=" + wa.WACID;
+if(screen) felbontas='@felbontas='+screen.width+'x'+screen.height;
+if((document.referrer) && (document.referrer!="")) wa_referrer='@r='+document.referrer;
+same = same + felbontas + wa_referrer;
+//-->
+</SCRIPT>
+
+<SCRIPT language="JavaScript">
+<!--
+document.write('<!-- Medián WebAudit G-Portál Felhasználói oldalak 1/2 --><img style="position: absolute; left: -100; top:-100;" src="http://audit.median.hu/cgi-bin/track.cgi?uc=11224701815144&dc=1&ui='+same+'" width="1" height="1">');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<!-- Medián WebAudit G-Portál Felhasználói oldalak 1/2 -->
+<img style="position: absolute; left: -100; top:-100;" src="http://audit.median.hu/cgi-bin/track.cgi?uc=11224701815144&dc=1" width="1" height="1">
+</NOSCRIPT>
+<div align="center" class="pagewrapper">
+<style>
+.table_csik_th79nVHe {
+background: #212121;
+height: 96px;
+width: 100%;
+border-bottom: 3px solid #161616;
+}
+
+.table_csik_th79nVHe td {
+background: #212121;
+}
+
+.table_csik_th79nVHe a img {
+background: #212121 !important;
+}
+
+#stripe_th79nVHe td img {
+vertical-align: top;
+}
+
+#stripe_th79nVHe {
+width: 150px;
+vertical-align: top;
+}
+
+#topm_th79nVHe {
+vertical-align: top;
+text-align: center;
+apadding: 1px;
+height: 96px;
+
+}
+
+#ajanlo_th79nVHe {
+position: absolute;
+text-align: right;
+padding-left: 15px;
+color: #ffffff;
+font-family: "trebuchet ms", tahoma;
+font-size: 10px;
+padding-top: 2px;
+}
+
+#ajanlo_th79nVHe a {
+color: #ffffff;
+font-family: "trebuchet ms", tahoma;
+font-size: 10px;
+text-decoration: none;
+}
+
+#ajanlo_th79nVHe img {
+margin-top: 3px;
+margin-right: 3px;
+}
+
+#limit_th79nVHe {
+background: url(/image/vonal.jpg) no-repeat;
+height: 96px;
+width: 17px;
+vertical-align: top;
+}
+
+#display_th79nVHe {
+background: url(/image/bg_blue.jpg) repeat-x;
+height: 96px;
+vertical-align: top;
+padding: 4px;
+width: 50px;
+}
+
+#headerlogo_th79nVHe {
+  border: 0px !important;
+}
+</style>
+
+<table cellspacing="0" cellpadding="0" border="0"  class="table_csik_th79nVHe">
+  <tr>
+    <td id="stripe_th79nVHe"><div id="ajanlo_th79nVHe">
+        <a href="javascript:void(0);" onClick="rolo('show','restoration');"><img src="image/mail_icon.gif" border="0" />AJ&Aacute;NLOM AZ OLDALT</a>
+      </div><a href="http://gportal.hu" target="_top"><img src="/images/logo3.png" id="headerlogo_th79nVHe"  valign="top" /></a></td>
+      <td id="topm_th79nVHe" valign="top">
+        <!--div style="width:960px;height:90px;overflow:hidden;">
+<script type="text/javascript" src="http://imgs.adverticum.net/scripts/goa3/goa3.js"></script>
+<div id="zone1835049" class="goAdverticum"><var class="priority" style="display:none;">150</var></div>
+        </div-->
+	<iframe src="header_banner.html" allowtransparency="true" width="960" height="90" scrolling="no" frameborder="no"></iframe>
+      </td>
+  </tr>
+</table>
+<div id="rolo" style="filter:alpha(opacity=50);opacity:0.5;background-color:#006bb8;width:100%;height:100%;*width:expression(document.body.clientWidth);*height:expression(document.body.clientHeight);position:absolute;z-index:1000;top:0px;display:none;"></div>
+<div id="suggestbox" style="width:100%;height:100%;*width:expression(document.body.clientWidth);*height:expression(document.body.clientHeight);position:absolute;z-index:1001;top:0px;display:none;text-align:center;vertical-align:center;">
+  <table border=0 cellpadding=0 cellspacing=0 style="width:100%;height:100%;">
+    <tr>
+      <td align="center">
+        <div style="width:338px;"><div style="background-color:#438e02;width:40px;padding:2px;margin-left:294px"><a href="javascript:void(0)" onclick="rolo('hide')">bezár</a></div></div>
+	<iframe src="" id="suggestiframe" frameborder="no" width="338" height="500" style="" scrolling=no></iframe>
+      </td>
+    </tr>
+  </table>
+</div><table width=980 cellpadding=0 cellspacing=0 class="site">
+ <tr>
+<td colspan=3>
+
+<table width="100%" cellpadding=0 cellspacing=0 border=0 class="headerbg" background="">
+  <tr valign="top">
+    <td width="100%" class="header" valign="top" height="72" align="left">
+      <img src="/portal/restoration/image/logo_1362846192.jpg" alt="RestoratioN" title="RestoratioN" >
+    </td>
+ </tr>
+</table>
+  </td>
+ </tr>
+</table>
+<table width=980 cellpadding="0" cellspacing="0" class="site sitetop"><tr><td><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574216" ><tr><td class="txtnormal"><div style="text-align: center;">
+	<a href="http://restoration.gportal.hu/gindex.php?pg=35599956"><img src="http://i.imm.io/YCTg.png" style="height: 49px; width: 150px;" /></a><a href="http://restoration.gportal.hu/gindex.php?pg=35599981"><img src="http://i.imm.io/YCTG.png" style="height: 49px; width: 150px;" /></a><a href="http://restoration.gportal.hu/gindex.php?pg=35599984"><img src="http://i.imm.io/YCUj.png" style="height: 49px; width: 150px;" /></a><a href="http://restoration.gportal.hu/gindex.php?pg=35599985"><img src="http://i.imm.io/YCUM.png" style="height: 49px; width: 150px;" /></a><a href="http://restoration.gportal.hu/gindex.php?pg=35599986"><img src="http://i.imm.io/YCVn.png" style="height: 49px; width: 150px;" /></a>
+	<hr />
+</div>
+<p>
+	&nbsp;</p>
+</td></tr></table></td></tr></table><table width=980 cellpadding=0 cellspacing=0 class="site sitemain">
+ <tr valign="top">
+<td width="160" class="sitecol"><table width=160 cellpadding=5 cellspacing=0 border=0><tr><td><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35578878" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCq4.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35578878')" id="module_ocimg_35578878" /></div></div></td></tr>
+				<tr id="module_body_35578878" opened="true"><td class="modbody"><div style="text-align: center;">
+	&nbsp;</div>
+<div style="text-align: center;">
+	<span style="color:#0000ff;"><font face="comic sans ms, cursive"><span style="font-size: 14px;"><b>Ma,azaz Március 15.én 0:00 Perctől Vasárnap Éjfélig </b></span></font></span><span style="color:#ffff00;"><font face="comic sans ms, cursive"><span style="font-size: 14px;"><b>ÁrZabáló Event</b></span></font></span><span style="color:#0000ff;"><font face="comic sans ms, cursive"><span style="font-size: 14px;"><b>et tartunk nektek :D Bővebb információt az </b></span></font></span><span style="color:#ffff00;"><font face="comic sans ms, cursive"><span style="font-size: 14px;"><b>Aktuális Játékok</b></span></font></span><span style="color:#00ffff;"><font face="comic sans ms, cursive"><span style="font-size: 14px;"><b> </b></span></font></span><span style="color:#0000ff;"><font face="comic sans ms, cursive"><span style="font-size: 14px;"><b>menüben olvashattok.</b></span></font></span></div>
+<div style="text-align: center;">
+	&nbsp;</div>
+<div style="text-align: center;">
+	<span style="font-size:16px;"><span style="font-family: 'comic sans ms',cursive;"><strong><span style="color: rgb(255, 0, 0);">Konoha</span> betelt!</strong></span></span></div>
+<div style="text-align: center;">
+	<span style="font-size:16px;"><span style="font-family: 'comic sans ms',cursive;"><strong><span style="color:#ffff00;">Felhő falu </span>betelt!</strong></span></span></div>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574185" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCqd.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574185')" id="module_ocimg_35574185" /></div></div></td></tr>
+				<tr id="module_body_35574185" opened="true"><td class="modbody"><table width="100%" cellpadding=1 cellspacing=0 border=0>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574225" class="menu">Főoldal</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574278" class="menu">Fórum</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574292" class="menu">Vendégkönyv</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574284" class="menu">Szerkesztő Csapat</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35602829" class="menu">Társoldalak</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35602833" class="menu">Bannerek</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574285" class="menu">Chat</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574287" class="menu"><b><span style=\font-family: comic sans ms,sans-serif;\><span style=\color: #ff0000;\>Foglalt Karakterek</span></span></b></a></td>
+  </tr>
+</table>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574275" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCqj.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574275')" id="module_ocimg_35574275" /></div></div></td></tr>
+				<tr id="module_body_35574275" opened="true"><td class="modbody"><table width="100%" cellpadding=1 cellspacing=0 border=0>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574411" class="menu">Szabályzat</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574276" class="menu">Bank</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574587" class="menu">Ramen stand</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574592" class="menu">Dojo</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574590" class="menu">Rangok</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574594" class="menu">Küldetések és Munkák</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574591" class="menu">Edzés</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574814" class="menu">Fejvadászat</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574818" class="menu">Randi</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574821" class="menu">Harcok</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574868" class="menu">Csapat Alapítás</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35576971" class="menu">Aktuális Játékok</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35577022" class="menu">Karakterlap</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35577045" class="menu">Szem Beültetés</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35577479" class="menu">Tanítvány - Mester Kapcsolat</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35578513" class="menu">Falu Fejlesztés</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35578516" class="menu"><span style=\font-family: comic sans ms,sans-serif;\><span style=\color: #ff0000;\><b>Inaktív Karakterek</b></span></span></a></td>
+  </tr>
+</table>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574557" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCsl.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574557')" id="module_ocimg_35574557" /></div></div></td></tr>
+				<tr id="module_body_35574557" opened="true"><td class="modbody"><table width="100%" cellpadding=1 cellspacing=0 border=0>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574578" class="menu">Fegyverek</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574580" class="menu">Egyedi Fegyverek</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574581" class="menu">Legendás Fegyverek</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574582" class="menu">A Köd Hét Kardforgató Fegyverei</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574583" class="menu">Bábok</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35575044" class="menu">Ruhák</a></td>
+  </tr>
+</table>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574186" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCw4.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574186')" id="module_ocimg_35574186" /></div></div></td></tr>
+				<tr id="module_body_35574186" opened="true"><td class="modbody"><script language="Javascript">
+<!--
+function CheckLogData() {
+ with(document.loginform) {
+  if((ln.value == "") || (pw.value == "")) {
+   alert("A név és a jelszó megadása kötelező! Kérem, add meg!");
+   return false;
+  } else {
+   return true;
+  }
+ }
+}
+-->
+</script>
+<a name="loginform"></a>
+<form action="./gindex.php" name="loginform" method="post" onSubmit="return CheckLogData()" style="margin-bottom: 4px">
+Felhasználónév:<br><input type="text" name="ln" maxlength=32 style="width: 120px"><br>
+Jelszó:<br><input type="password" name="pw" maxlength=128  style="width: 120px">
+<table cellpadding=0 cellspacing=0 border=0 width="100%" style="margin-top: 4px">
+ <tr>
+  <td><input type="submit" value="Belépés"></td>
+  <td align="right" class="txtnormal"><a href="javascript:void(0);" onclick="javascript:window.open('gshelp.php?prt=733322&id=login','_blank','scrollbars=yes,titlebar=no,resizable=yes,status=no,menubar=no,left=0,top=0,width=420,height=350');">Súgó<img src="./image/help.gif" style="width:12px;height:12px;border:0;" alt="Súgó" title="Súgó"/></a></td>
+ </tr>
+</table>
+<input type="Hidden" name="prt" value="733322">
+<input type="Hidden" name="pg" value="35574225">
+
+</form>
+<a href="./gindex.php?pg=35574187">Regisztráció</a><br>
+<a href="./gindex.php?pg=35574192">Elfelejtettem a jelszót</a></td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35578794" ><tr><td class="modtitle"><div style="position: relative;"><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35578794')" id="module_ocimg_35578794" /></div></div></td></tr>
+				<tr id="module_body_35578794" opened="true"><td class="modbody"><div align="center"><input type="text" value="1142" size=6 title="Összlátogatottság" style="text-align: center" readonly="readonly">
+<input type="text" value="61.4" size=6 title="Az átlag látogatottság" style="text-align: center" readonly="readonly">
+<input type="text" value="181" size=6 title="A mai látogatottság" style="text-align: center" readonly="readonly">
+<input type="text" value="9" size=6 title="Bejelentkezett felhasználók" style="text-align: center" readonly="readonly"></div>
+<div align="center" class="txtsmall">Indulás: 2013-02-24</div>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table></td></tr></table></td> 
+  <td width=660 class="sitecol">
+<table width="100%" cellpadding="5" cellspacing=0 border=0><tr><td>
+<table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574225" ><tr><td class="modtitle"><div style="position: relative;">Főoldal<div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574225')" id="module_ocimg_35574225" /></div></div></td></tr>
+				<tr id="module_body_35574225" opened="true"><td class="modbody"><p style="text-align: center">
+	<span style="color:#b22222;"><span><strong><span style="font-family: comic sans ms,cursive;"><span style="font-size: 14px;">Üdv látogató!! </span></span></strong></span></span></p>
+<p style="text-align: center">
+	<span style="font-family:comic sans ms,cursive;"><span style="font-size:14px;">Ez itt egy naruto nevelde, mely sok pozítiv dologgal rendelkezik, csak nevelni kell xD. Reméljük, hogy az embereknek tetszeni fog ez az új nevelde.&nbsp;</span></span></p>
+<p style="text-align: center">
+	<img alt="" src="http://wallpoper.com/images/00/25/07/75/naruto:-shippuden_00250775.jpg" style="height: 350px; width: 560px" /></p>
+<p>
+	<span style="color:#ff0000;"><u><strong><span style="font-size:14px;"><span style="font-family:comic sans ms,cursive;">Így kérj karit: </span></span></strong></u></span></p>
+<div>
+	<span><span style="color:#b22222;"><strong><span style="font-size: 14px;"><span style="font-family: comic sans ms,cursive;">Név: </span></span></strong></span><span style="font-family:comic sans ms,cursive;">Naruto <span style="color:#800000;"><strong>(de akárki lehet aki nem foglalt)&nbsp;</strong></span></span></span></div>
+<div>
+	<span><strong><span style="color:#b22222;"><span style="font-size: 14px;"><span style="font-family: comic sans ms,cursive;">Falu: </span></span></span></strong></span><span style="color:#800000;"><span><strong><span style="font-size: 12px;"><span style="font-family: comic sans ms,cursive;">(Ide pedig azt amelyik faluba akarsz menni) </span></span></strong></span></span></div>
+<div>
+	<span><span style="color:#b22222;"><strong><span style="font-size: 14px;"><span style="font-family: comic sans ms,cursive;">Elem: </span></span></strong></span><span style="font-family:comic sans ms,cursive;">1db. Elem (<span style="color:#ff0000;"><strong>Tűz</strong></span>, <span style="color:#0000ff;"><strong>Víz</strong></span>, <span style="color:#8b4513;"><strong>Föld</strong></span>, <span style="color:#ffff00;"><strong>Villám</strong></span>, <span style="color:#add8e6;"><strong>Szél</strong></span>) </span></span></div>
+<div>
+	<span><span style="color:#b22222;"><strong><span style="font-size: 14px;"><span style="font-family: comic sans ms,cursive;">Jutsuk: </span></span></strong></span><span style="font-family:comic sans ms,cursive;">3 db. D szintű jutsu, 3db C szintű jutsu <span style="color:#800000;"><strong>(max. 5000 Chakráig lehet kérni) </strong></span></span></span></div>
+<div>
+	<span><span style="color:#b22222;"><strong><span style="font-size: 14px;"><span style="font-family: comic sans ms,cursive;">Fegyver: </span></span></strong></span><span style="font-family:comic sans ms,cursive;">Kunai, Shuriken</span></span></div>
+<p style="margin-left: 40px">
+	<span style="color:#ff0000;"><span style="font-size:12px;"><strong><span style="font-family:comic sans ms,cursive;">4500 Chakrával és Ryoval kezd mindenki!</span></strong></span></span></p>
+<p style="text-align: center">
+	<strong><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#ffff00;"><u>E L S Ő D L E G E S &nbsp; E L E M E K</u></span></span></span></strong></p>
+<p style="text-align: center">
+	<span style="font-family:comic sans ms,cursive;">Az elsődleges elemek, az öt fajta amelyek közzűl egy felé minden ember chakrája hajlik. Ezt az elemet tudja irányítani. A jouninok közzűl mindenki tud legalább két féle elemt irányítani. </span></p>
+<p>
+	<span style="color:#ff0000;"><strong><u><span style="font-family:comic sans ms,cursive;">Ez az öt elem a következőek: </span></u></strong></span></p>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- <span style="color:#ff0000;">Katon</span> (Tűz elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- <span style="color:#add8e6;">Fuuton</span> (Szél elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- <span style="color:#ffff00;">Raiton</span> (Villám elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- <span style="color:#8b4513;">Doton</span> (Föld elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- <span style="color:#0000ff;">Suiton</span> (Víz elem)</span></div>
+<p style="text-align: center">
+	<span style="font-family:comic sans ms,cursive;">&nbsp;Az öt elemtől függően számtalan jutsu létezik és létrehozni is lehet őket, persze ehez már magasabb szinten kell lenni. Az <span style="color:#800000;"><strong>5 elemet kombinálva</strong></span> létrejöhetnek újabb elemek is, amelyeket csak az adott <span style="color:#ff0000;"><strong>vérvonalképeségekkel rendelkező klánok</strong></span> tagjai képesek irányítani.&nbsp;</span></p>
+<p style="text-align: center">
+	<strong><span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:14px;"><span style="color:#ffff00;"><u>M Á S O D L A G O S &nbsp; E L E M E K </u></span></span></span></strong></p>
+<p style="text-align: center">
+	<span style="font-family:comic sans ms,cursive;">A másodlagos elemek a fent említett módon jönnek létre. Bár az anime és manga folyamán eddig csupán néhányat láthattunk, valójában 15 ilyen kombináció van. </span></p>
+<p>
+	<span style="color:#ff0000;"><strong><u><span style="font-family:comic sans ms,cursive;">Ezek a: </span></u></strong></span></p>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Doton + Suiton = Mokuton (Fa elem)</span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Suiton + Katon = Dokuton (Méreg elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Fuuton + Suton = Kageton (Árnyék elem)</span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Doton + Katon = Kaneton (Fém elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Katon + Doton = Magumaton (Magma elem) <span style="color:#ff0000;"><strong>&lt;&lt; nem ugyanaz a magma</strong></span></span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Raiton + Fuuton = Magunton (Mágnesesség elem)</span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Doton + Fuuton = Sunaton (Homok elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Raiton + Doton = Souton (Gravitációs elem)</span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Raiton + Fuuton = Puraton (Plazma elem)</span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Katon + Raiton = Hikariton (Fény elem)</span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Fuuton + Suiton = Hyouton (Jég elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Fuuton = Ototon (Hang elem) </span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Shouton (Kristály elem) csak Gurennek</span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Raiton + Katom = Jinton (Gyorsaság elem)</span></div>
+<div style="margin-left: 80px">
+	<span style="font-family:comic sans ms,cursive;">- Raiton + Fuuton = Randon (Vihar elem)</span></div>
+<p style="margin-left: 40px; text-align: center">
+	<img alt="" src="http://fc00.deviantart.net/fs70/i/2013/052/8/0/hashirama_vs_madara__naruto_shippuden_621__by_hassan_hp-d5vq6lk.png" style="height: 199px; width: 490px" /></p>
+<p style="text-align: center">
+	<span style="color:#ff0000;"><strong><span style="font-family:comic sans ms,cursive;"><span style="font-size:14px;">Írd meg a saját sorsodat, harcolj a céljaidért és légy a legjobb, légy a legerősebb!!</span></span></strong></span></p>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table></td></tr></table>
+  </td>
+<td width="160" class="sitecol"><table width=160 cellpadding=5 cellspacing=0 border=0><tr><td><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35578774" ><tr><td class="modtitle"><div style="position: relative;"><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35578774')" id="module_ocimg_35578774" /></div></div></td></tr>
+				<tr id="module_body_35578774" opened="true"><td class="modbody">  <center><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="130" HEIGHT="30" id="ghostfeles" ALIGN=""> <PARAM NAME=movie VALUE="./clock/cooldigital.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE="#003333"> <EMBED src="./clock/cooldigital.swf" quality=high bgcolor="#003333"  WIDTH="130" HEIGHT="30" NAME="ghostfeles" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT></center>
+  </td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574224" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCB4.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574224')" id="module_ocimg_35574224" /></div></div></td></tr>
+				<tr id="module_body_35574224" opened="true"><td class="modbody"><table width="100%" cellpadding=1 cellspacing=0 border=0>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574227" class="menu">Uchiha Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574230" class="menu">Nara Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574231" class="menu">Akimichi Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574233" class="menu">Aburame Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574234" class="menu">Inuzuka Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574235" class="menu">Yamanaka Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574236" class="menu">Kaguya Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574237" class="menu">Rin'negan Használók</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35577439" class="menu">Hyuuga Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35604707" class="menu">Uzumaki Klán</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35613679" class="menu">Hozuki Klán</a></td>
+  </tr>
+</table>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574242" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCAq.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574242')" id="module_ocimg_35574242" /></div></div></td></tr>
+				<tr id="module_body_35574242" opened="true"><td class="modbody"><table width="100%" cellpadding=1 cellspacing=0 border=0>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574929" class="menu">Egyedi Jutsuk 1.</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574947" class="menu">Egyedi Jutsuk 2.</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574983" class="menu">Egyedi Jutsuk 3.</a></td>
+  </tr>
+</table>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574502" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCzX.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574502')" id="module_ocimg_35574502" /></div></div></td></tr>
+				<tr id="module_body_35574502" opened="true"><td class="modbody"><table width="100%" cellpadding=1 cellspacing=0 border=0>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574503" class="menu">Fuuton - Szél Elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574504" class="menu">Suiton -  Víz elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574505" class="menu">Katon - Tűz Elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574506" class="menu">Doton - Föld Elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574507" class="menu">Mokuton - Fa Elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574508" class="menu">Sunaton - Homok Elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574509" class="menu">Shoton - Kristály Elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574510" class="menu">Hyoton - Jég Elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574511" class="menu">Ranton - Vihar Elem</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35587220" class="menu">Raiton - Villám Elem</a></td>
+  </tr>
+</table>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574512" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCzv.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574512')" id="module_ocimg_35574512" /></div></div></td></tr>
+				<tr id="module_body_35574512" opened="true"><td class="modbody"><table width="100%" cellpadding=1 cellspacing=0 border=0>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574513" class="menu">Genjutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574514" class="menu">Orvosi Jutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574515" class="menu">Idéző Jutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574516" class="menu">Idézett Lények Jutsujai</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574517" class="menu">Tiltott Jutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574518" class="menu">Pecsét Jutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574520" class="menu">Egyéb Jutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574521" class="menu">Taijutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574522" class="menu">Ken Jutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574523" class="menu">Senjutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574525" class="menu">Rasengan Variációk </a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574526" class="menu">Chidori-Raikiri Variációk</a></td>
+  </tr>
+</table>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574528" ><tr><td class="modtitle"><div style="position: relative;"><img src="http://i.imm.io/YCxl.png" /><div><img src="/image/minus.gif" style="position: absolute;right:2;top:2;display: none;" onClick="openclose_module('35574528')" id="module_ocimg_35574528" /></div></div></td></tr>
+				<tr id="module_body_35574528" opened="true"><td class="modbody"><table width="100%" cellpadding=1 cellspacing=0 border=0>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574530" class="menu">Bijuuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35574531" class="menu">Bijuu Jutsuk</a></td>
+  </tr>
+  <tr>
+    <td class="menu"><a href="./gindex.php?pg=35575070" class="menu">Bijuu Jutsuk 2.</a></td>
+  </tr>
+</table>
+</td></tr><tr><td class="modbottom">&nbsp;</td></tr></table></td></tr></table></td> </tr>
+</table>
+<table width=980 cellpadding="0" cellspacing="0" class="site sitebottom"><tr><td><table class="module" cellpadding="0" cellspacing="0" border="0" width="100%" module_id="35574217" ><tr><td class="txtnormal"><p style="text-align: center;">
+	<style type="text/css">
+.site {
+	width: 980px;}
+td.list1 { /*  sms hirdetodoboz 1. Pl.:vendegkonyv belseje, blog: mit szól hozzá kinézete  */
+	background-color: #000000;
+	font-family: Comic Sans MS;
+	font-size: 11px;
+	padding-left: 3px;
+	text-align: justify;
+	color: #999999;
+	border: 0px;
+}
+td.list2 { /*  pl. sms hirdetodoboz 2.  */
+    background-color: #000000;
+    font-family: Tahoma;
+    font-size: 11px;
+    text-align: justify;
+    color: #660000;
+}
+td.list3 { /*  pl. hirek/cikkek modul, fórum fejléce  */
+    font-family: "Arial Black";
+    font-size: 12px;
+    color: #222222;
+    text-align: left;
+    background-color: #000000;
+    padding-top: 0px; /* keret és a szöveg közti távolság */
+    padding-bottom: 0px; /* keret és a szöveg közti távolság */
+    border-bottom: #43b5ac 2px dotted;
+    border-top: #e2d4bd 0px solid;
+    font-weight: normal;
+    letter-spacing: 0px;
+}
+td.listheader3 {
+     background-image: url();
+     font-family: Comic Sans MS;
+     background-color: #000000;
+     font-size: 10px;
+     color: #ffffff;
+     font-weight: bold;
+     text-align: left;
+     text-transform: none;
+     border-bottom: #0066cc 2px dotted;
+     border-top: #660000 2px dotted;
+}
+td.modtitle { /* modulfejléc része */
+	font-family: "Arial Black";
+	font-size: 13px;
+	color: #0066cc;
+	text-align: center;
+	background-color: #000000;
+	padding-top: 7px; /* keret és a szöveg közti távolság */
+	padding-bottom: 5px; /* keret és a szöveg közti távolság */
+	border-left: #000000 0px solid;
+	border-right: #000000 0px solid;
+	border-bottom: #43b5ac 0px dotted;
+	border-top: #000000 0px solid;
+	-moz-border-radius: 0em 0em 0em 0em; /* a keret szélek kerekítése */
+	-webkit-border-radius: 0em 0em 0em 0em; /* a keret szélek kerekítése */
+	text-transform: uppercase;
+	font-weight: normal;
+}
+
+td.modbody { /* tartalmi modul része */
+	background-color: #000000;
+	font-family: Comic Sans MS;
+	font-size: 11px;
+	color: #cccccc;
+	padding-left: 5px; /* keret és a szöveg közti távolság */
+	padding-right: 5px;
+	padding-bottom: 4px;
+	padding-top: 5px;
+	border-left: #000000 0px solid;
+	border-right: #000000 0px solid;
+	border-bottom: #000000 0px dotted;
+	border-top:#ff6600  0px dotted;
+	-moz-border-radius: 0em 0em 0em 0em;
+	-webkit-border-radius: 0em 0em 0em 0em;
+}
+
+img {
+	border: 0px solid #abdebf;
+	padding: 0px;
+	border-left: #66cc00 0px solid;
+	border-right: #009900 0px solid;
+	border-bottom: #009900 0px solid;
+	border-top: #66cc00 0px solid;}
+img:hover {
+	border: 0px solid #e95a82;
+	padding: 0px;
+        cursor: default;
+	border-left: #009900 0px solid;
+	border-right: #66cc00 0px solid;
+	border-bottom: #66cc00 0px solid;
+	border-top: #009900 0px solid;}
+a:link img, a:visited img {
+	border: 0px solid #e95a82;
+	background-color: transparent;
+        padding: 0px;
+	filter: alpha(opacity=60);
+        opacity: 1;
+	border-left: #ff9900 0px solid;
+	border-right: #ff9900 0px solid;
+	border-bottom: #ff9900 0px solid;
+	border-top: #ff9900 0px solid;}
+a:hover img {
+	border: 0px solid #e95a82;
+	background-color: transparent;
+        padding: 0px;
+	filter: alpha(opacity=60);
+        opacity: .5; /* Mennyire legyen halvány a kép */;
+       -webkit-transition: opacity .5s ease-in; /* Hány másodpercig tartson az átmenet. (Chrome, Opera...) */     
+       -moz-transition: opacity .5s ease-in; /* Hány másodpercig tartson az átmenet. (Mozilla Firefox) */     
+       -o-transition: opacity .5s ease-in; /* Hány másodpercig tartson az átmenet. (Internet Explorer) */
+        cursor: default;
+	border-left: #222222 0px solid;
+	border-right: #222222 0px solid;
+	border-bottom: #222222 0px solid;
+	border-top: #222222 0px solid;}
+a:link, a:visited {
+	color: #99ff33;
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	font-size: 11px;
+	text-decoration: none;
+}
+a:hover {
+	color: #0066cc;
+	background-color: none;
+	font-size: 11px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	font-family: Trebuchet MS;
+	cursor: default;
+}
+
+input { /*  pl. oké gomb.  */
+	font-family: "Trebuchet MS";
+	font-size: 10px;
+	color: #660000;
+	border: 2px solid #0066cc;
+	background-color: #000000;
+	padding: 2px;
+	-moz-border-radius: 1.1em 1.1em 1.1em 1.1em;
+	-webkit-border-radius: 1.1em 1.1em 1.1em 1.1em;
+}
+textarea {/*  pl. kódos dobozom kinézete  */
+	background-color: #000000;
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+	border: 0px;
+	font-style: normal;
+}
+table, td {
+     background-color:#000000;
+}
+body {
+	background-attachment: fixed;
+	cursor: default;
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #222222;
+	margin-left: 0px;
+	background-color: #A0522D;
+	overflow: -moz-scrollbars-vertical;
+	overflow-x: hidden;
+        background-image: url('http://i.imm.io/YLJK.png');
+}
+	 
+/*  DOLT, ALÁHÚZOTT, BOLD betustílusok  */
+	 
+.headerbg {
+	background-color: #000000;
+}
+
+td.menu {/*  menü modul háttere pl.  */
+     background-color: #000000;
+     font-family: Tahoma;
+     text-align: center;
+     font-size: 10px;}
+a.menu:link, a.menu:visited { /*  menü modul linkje  */
+	color: #cccccc;
+	font-family: Comic Sans MS;
+	font-weight: normal;
+	text-align: center;
+	font-style: none;
+	font-size: 12px;
+	text-decoration: none;
+}
+a.menu:hover { /*  menü modul linkje ha ráviszem az egeret  */
+	color: #660000;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: none;
+	text-align: center;
+	font-style: none;
+	font-family: Comic Sans MS;
+	cursor: default;
+}
+-->	</style>
+	<img align="middle" src="http://restoration.gportal.hu/portal/restoration/image/gallery/1362846570_45.jpg" style="border-width: 0px; border-style: solid; height: 102px; width: 970px;" /></p>
+</td></tr></table></td></tr></table><table width=980 cellpadding=0 cellspacing=0 class="site">
+ <tr>
+	<td height="100%">
+<hr style="width: 100%; height: 1; color: black;">
+<table width="100%" cellspacing=0 cellpadding=0 style="margin-bottom: 10px;">
+  <tr>
+    <td astyle="border-top: 1px solid #f38817; border-bottom: 1px solid #f38817;">
+      <link href="/gfx/new/sms.css" type="text/css" rel="stylesheet" />
+  <div id="rolo" style="filter:alpha(opacity=50);opacity:0.8;background-color:#212121;width:100%;height:100%;*width:expression(document.body.clientWidth);*height:expression(document.body.clientHeight);position:absolute;z-index:1000;top:0px;display:none;"></div>
+  <div id="suggestbox" style="width:100%;height:100%;*width:expression(document.body.clientWidth);*height:expression(document.body.clientHeight);position:absolute;z-index:1001;top:0px;display:none;text-align:center;vertical-align:center;">
+    <table border=0 cellpadding=0 cellspacing=0 style="width:100%;height:100%;">
+      <tr>
+        <td align="center">
+          <div style="width:338px;"><div style="background-color:#212121;width:40px;padding:2px;margin-left:294px"><a href="javascript:void(0)" onclick="rolo('hide')">bezár</a></div></div>
+          <iframe src="" id="suggestiframe" frameborder="no" width="338" height="500" style="" scrolling=no></iframe>
+        </td>
+      </tr>
+    </table>
+  </div>
+  </div>
+
+<div class="gp-sms">
+<table width="100%" border=0 cellpadding=0 cellspacing=0 valign="top" class="smsbackground">
+    <tr>
+	<td><a href="/smsarchivum" title="Régebbi üzenetek..." target="_top"><div class="smsclick1"> </div></a></td>
+	<td><a onclick="rolo('show', null, 'sms')" target="_top" title="Hirdess te is!" href="javascript:void(0)"><div class="smsclick2"> </div></td>
+	<td><a href="/smshelp" title="Te is hirdetnél?" target="_top"><div class="smsclick3"> </div></a></td>
+	<td class="sms_marquee" width="100%" align="center" valign="top"><marquee align="bottom" scrollamount="3" scrolldelay="10" id="smsscroll" title="SMS banner" onmouseover="stop();" onmouseout="start();"><a href="http://sheerio-world.com/" rel="nofollow" class="smsbanner" target="_blank">ESW // A leg&uacute;jabb magyar Ed Sheeran  RAJONG&Oacute;I LAP! ELK&Ouml;LT&Ouml;Z&Ouml;TT! // ESW // A leg&uacute;jabb magyar Ed Sheeran  RAJONG&Oacute;I LAP! EL</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://gorgeous-miley.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">&Uacute;j, egyszer&ucirc;bb kin&eacute;zet ker&uuml;lt fel a gorgeous-miley.gportal.hu-ra. Gyere &eacute;s v&eacute;lem&eacute;nyezd a chatba! KATT!KATT!KATT!KATT!!!!</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://polelektro.ucoz.hu" rel="nofollow" class="smsbanner" target="_blank">Ha szereted a filmeket, sorozatokat itt a helyetek! T&ouml;bb ezer film &eacute;s sorozat film egy helyen! klikk ide!!!!</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://katyperrydaily.org" rel="nofollow" class="smsbanner" target="_blank">Magyarorsz&aacute;g egyetlen Katy Perry-vel foglalkoz&oacute; oldala &uacute;jranyitott! Ha szereted Katy-t itt a helyed! katyperrydaily.org</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.rose-harbor.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">SZEREPJ&Aacute;T&Eacute;K - A Ley-vonalaknak h&aacute;la Rose Harbor t&ouml;bb, mint egy k&ouml;z&ouml;ns&eacute;ges porf&eacute;szek - MISZTIKUS SZEREPJ&Aacute;T&Eacute;K - RPG</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://edsheeranworld.gportal.hu/" rel="nofollow" class="smsbanner" target="_blank">ESW // A leg&uacute;jabb magyar Ed Sheeran  RAJONG&Oacute;I LAP! // ESW // A leg&uacute;jabb magyar Ed Sheeran  RAJONG&Oacute;I LAP!</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://butterfly-magic.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">&Uacute;j kin&eacute;zettel v&aacute;r a butterfly-magic.gp, valamint m&aacute;s extr&aacute;kkal is, saj&aacute;t manga ford&iacute;t&aacute;s, saj&aacute;t t&ouml;rt&eacute;netek. N&eacute;zz be! Katt</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.hajbeultetes.tv/hajbeultetes/hogyan-tortenik-a-hajbeultetes.html" rel="nofollow" class="smsbanner" target="_blank">Hajbe&uuml;ltet&eacute;s</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://szexpartnerhirdetesek.com" rel="nofollow" class="smsbanner" target="_blank">Szexpartnerek - Szexpartner hirdet&eacute;sek - Ingyenes szexpartner hirdet&eacute;sek val&oacute;di k&eacute;pekkel - Szexpartnerek az eg&eacute;sz orsz&aacute;g ter&uuml;let&eacute;r&otilde;l - N&eacute;zd meg a legszexibb szexpartnereket.</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://casiangeleshungary.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">!!! A CASI ANGELES HUNGARY &Uacute;JRA NYITVA !!! A CASI ANGELES HUNGARY &Uacute;JRA NYITVA !!! A CASI ANGELES HUNGARY &Uacute;JRA NYITVA !!!</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://edsheeranworld.gportal.hu/" rel="nofollow" class="smsbanner" target="_blank">ESW // A leg&uacute;jabb magyar Ed Sheeran  RAJONG&Oacute;I LAP! // ESW // A leg&uacute;jabb magyar Ed Sheeran  RAJONG&Oacute;I LAP!</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.latogatottsagnoveles.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">A regisztr&aacute;l&oacute;k k&ouml;z&ouml;tt kisorsolok 42 kreditet m&eacute;g ma! 23:00-kor k&uuml;ld&ouml;m a szerencs&eacute;snek a kreditet! - KATTINTS IDE!!!&lt;----</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://ash-benzo.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">ASHLEY BENSON HUNGARY - napi t&ouml;bb friss, &uacute;jdons&aacute;gok a Spring Breakersr&otilde;l, PLL-r&otilde;l,stb | ASHLEY BENSON HUNGARY - ashbenzo</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://jokka.gportal.hu/" rel="nofollow" class="smsbanner" target="_blank">IDE MINDIG &Eacute;RDEMES BEN&Eacute;ZNI Picur Mini ABC Nyitva: mindennap 5-21h-ig Bp. IV. N&aacute;dor u. 87. AZ &Uuml;NNEPEK ALATT is NYITVA!</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://netfilmek.hu" rel="nofollow" class="smsbanner" target="_blank">online filmek</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sophiev.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">Magyarorsz&aacute;g egyetlen foci &eacute;s divat blogja egyben! &Uacute;j c&iacute;men! www.sophiev.gportal.hu!</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.crashwarped.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">Ha szereted Crasht, itt a helyed! H&iacute;rt kaphatsz t&ouml;bbek k&ouml;z&ouml;tt egy egyedi projektr&otilde;l, de sok m&aacute;sr&oacute;l is! :)</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://stiluskeszito.hu" rel="nofollow" class="smsbanner" target="_blank">A vil&aacute;g egyik legjobb CSS K&eacute;sz&iacute;t&otilde;je G-Port&aacute;lra! Regisztr&aacute;lj, &eacute;s pr&oacute;b&aacute;ld ki most a leny&ucirc;g&ouml;z&otilde; &eacute;lm&eacute;nyt!</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bloodthirsty-bunny.gportal.hu" rel="nofollow" class="smsbanner" target="_blank">Bloodthirsty Bunny. Olvasd egy igazi, v&eacute;rszomjas nyuszi &iacute;r&aacute;sait. Bloodthirsty Bunny.</a>&nbsp;&nbsp;&nbsp;&nbsp;*****&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://stiluskeszito.hu" rel="nofollow" class="smsbanner" target="_blank">CSS Tud&aacute;s n&eacute;lk&uuml;l CSS K&oacute;d k&eacute;sz&iacute;t&eacute;s G-Port&aacute;lra? &Eacute;rdekel? Pr&oacute;b&aacute;ld ki a vil&aacute;g egyik legjobb CSS K&eacute;sz&iacute;t&otilde;j&eacute;t G-Port&aacute;lra!</a></marquee></td>
+	<td><a href="javascript:void(0);" onclick="document.getElementById('smsscroll').direction='left'; document.getElementById('smsscroll').start();" title="balra" ><div class="smsclick4"> </div></a></td>
+	<td><a href="javascript:void(0);" onclick="document.getElementById('smsscroll').stop();" title="szünet"><div class="smsclick5"> </div></a></td>
+	<td><a href="javascript:void(0);" onclick="document.getElementById('smsscroll').direction='right'; document.getElementById('smsscroll').start(); " title="jobbra" ><div class="smsclick6"> </div></a></td>
+    </tr>
+</table>
+</div>
+    </td>
+  </tr>
+</table>
+  </td>
+ </tr>
+</table>
+  </div>
+<!-- w1 execution time: 0.030372 sec -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3807740-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script><!--script type="text/javascript" src="http://imgs.adverticum.net/scripts/goa3/goa3.js"></script>
+<div id="zone1884467" class="goAdverticum"></div-->
+</body>
+</html>
